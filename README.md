@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👯 我是 Movie Helper 的作者，有兴趣[点这里](https://github.com/zzh1991/React-SpringBoot)
+- 🔭 从事 Java 的相关开发，热爱开源
+- 📫 你可以在 KnowledgeCollision 微信公众号找到我
+
+![Zhihao Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzh1991)
