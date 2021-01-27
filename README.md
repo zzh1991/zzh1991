@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 - 🔭 Engage in Java web development and love open source
 - 📫 You coulf find me in [KnowledgeCollision blog](https://blog.zzhpro.com/).
 
-![Zhihao Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzh1991)
+![Zhihao Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzh1991&show_icons=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=zzh1991&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
