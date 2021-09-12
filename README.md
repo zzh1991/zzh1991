@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 我是电影助手（Movie Helper）的作者，有兴趣[点这里](https://github.com/zzh1991/React-SpringBoot)
+- 👯 我是[电影助手](http://movie.zzhpro.com/)（Movie Helper）的作者，有兴趣[点这里](https://github.com/zzh1991/React-SpringBoot)
+- 💪🏻 [Todo 笔记应用](https://todo.zzhpro.com/)
 - 🔭 从事 Java 的相关开发，热爱开源
 - 📫 你可以在 KnowledgeCollision 微信公众号找到我，也可以在[博客](https://blog.zzhpro.com/)找到我
 
@@ -28,7 +29,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 👯 I am the author of Movie Helper. If you are interested in this project, [please click here](https://github.com/zzh1991/React-SpringBoot).
+- 👯 I am the author of [Movie Helper](http://movie.zzhpro.com/). If you are interested in this project, [please click here](https://github.com/zzh1991/React-SpringBoot).
+- 💪🏻 [Todo Web APP](https://todo.zzhpro.com/)
 - 🔭 Engage in Java web development and love open source
 - 📫 You coulf find me in [KnowledgeCollision blog](https://blog.zzhpro.com/).
 
